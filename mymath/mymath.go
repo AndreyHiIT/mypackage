@@ -40,4 +40,4 @@ func Asin(x float64) float64 {
 	return math.Asin(x)
 }
 
-//v1.0.0
+//v2.0.0
